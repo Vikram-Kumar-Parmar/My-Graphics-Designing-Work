@@ -34,3 +34,10 @@ Welcome to my personal design vault! This repository showcases a collection of g
 
 /Branding_Kits/
   └── Logos, Social Templates, Guidelines
+
+/Random_Desings/
+  └── Wallpaper, Banners
+
+/UI_Back_Designs/
+  └── Back Designs, Logos
+
